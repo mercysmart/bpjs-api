@@ -15,6 +15,7 @@ Repositori ini merupakan sebuah koleksi API BPJS yang akan dipakai untuk CekBPJS
 * PHP
 * Python
 * Ruby
+* VB.Net
 
 ## License
 Repositori ini di lisensi oleh MIT.
